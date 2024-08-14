@@ -1,5 +1,7 @@
 \- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+* thuber: modified version to support membrane proteins
+
 *Just released: The BAT.py 2.3 version, with the new features*
 
 *- TI calculations with Gaussian Quadrature (TI-GQ) for OpenMM*
